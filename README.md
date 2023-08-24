@@ -1,4 +1,4 @@
-<h1 align = "center"> :fast_forward: Pet Lover :rewind: </h1>
+<h1 align = "center"> :fast_forward: Photo*grapher :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
@@ -8,7 +8,7 @@
 </p>
 
 ## 📖 About
-<p>Multipage application about dogs and cats. Created with Vue.js.</p>
+<p>Photography landing page template. Is built using with Bootstrap 4, HTML5 & CSS3.</p>
 
 ---
 
@@ -16,21 +16,20 @@
 - CSS
 - HTML
 - Javascript
-- Vue.js
+- Bootstrap
 
 ---
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/ecpieritz/pet-lover.git
+git clone https://github.com/ecpieritz/photo-grapher.git
 
 #### Enter directory
-`cd pet-lover`
+`cd photo-grapher`
 
 #### Run the server
-- `npm install`
-- `npm run serve` to run locally
-- open http://localhost:8080/ 
+- right click on the `index.html` file
+- click on `open with liveserver`
 
 ---
 <p align = "right">Developed with :blue_heart: by Emilyn C. Pieritz</p>
